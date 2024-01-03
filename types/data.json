@@ -17,7 +17,7 @@
         "dayOfWeek": "Thứ Năm",
         "lunar": "(Nhằm mùng 08 tháng 12 năm Quý Mão)",
         "time": "11h00",
-        "address": "Tân Hôn|Tư Gia Nam|Xuyên Nghĩa - Đức Xuyên - Krông Nô - Đăk Nông"
+        "address": "Lễ Tân Hôn|Tại Tư Gia Nam|Xuyên Nghĩa - Đức Xuyên - Krông Nô - Đăk Nông"
     },
     "timeLine": {
         "talk": "11:00",
@@ -35,9 +35,9 @@
         "/images/album-8.jpg",
         "/images/album-9.jpg",
         "/images/album-10.jpg",
-		"/images/album-11.jpg",
+	"/images/album-11.jpg",
         "/images/album-12.jpg",
-		"/images/album-13.jpg",
+	"/images/album-13.jpg",
         "/images/album-14.jpg"
     ]
 }
